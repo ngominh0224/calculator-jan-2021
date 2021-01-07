@@ -1,0 +1,38 @@
+section {
+    border-style: dashed;
+    border-width: 1px;
+    background: lightblue;
+    font-weight: bold;
+}
+
+h1 {
+    grid-row: 1;
+    background-color: lightgreen;
+}
+
+#add-button {
+    font-size: 20px;
+    margin: 5px
+}
+
+#subtract-button {
+    font-size: 20px;
+    margin: 5px
+}
+
+#multiply-button {
+    font-size: 20px;
+    margin: 5px
+}
+
+#divide-button {
+    font-size: 20px;
+    margin: 5px
+}
+
+#add-results {
+    border-style:solid;
+    border-width: 1px;
+    background-color: white;
+    padding: 15px;
+}
